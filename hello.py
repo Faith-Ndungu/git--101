@@ -1,1 +1,1 @@
-print{"hello my name is Faith Ndungu"}
+print("hello my name is Faith Ndungu")
